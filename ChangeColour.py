@@ -34,5 +34,5 @@ while(x <= rgb_img.width - 1):
         y += 1
     x += 1
 
-rgb_img.save("D:/Tarik/Coding Projects/Python_Image_Manipulation/test_modified.png")
+rgb_img.save("modified.png")
 
